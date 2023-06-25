@@ -1,5 +1,5 @@
-Your name: Ruchika
+Your name: Yash Arora
 
 Project Title: Lab 3
 
-Student Id: -----
+Student Id: 8527220945
